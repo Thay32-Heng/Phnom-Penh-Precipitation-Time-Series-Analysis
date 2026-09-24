@@ -1,6 +1,6 @@
 # Phnom Penh Precipitation Time-Series Analysis (2015–2025)
 
-**University:** (RUPP)Royal University of Phnom Penh
+**University:** (RUPP) Royal University of Phnom Penh
 
 **Major:** Data Science and Engineering, Year 3
 
