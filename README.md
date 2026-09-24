@@ -1,9 +1,13 @@
 # Phnom Penh Precipitation Time-Series Analysis (2015–2025)
 
 **University:** (RUPP)Royal University of Phnom Penh
+
 **Major:** Data Science and Engineering, Year 3
-**Professor:** Chim Seyha
-**Course:** Time Series Analysis (TSA)  
+
+**Professor:** Chim Seyha 
+
+**Course:** Time Series Analysis (TSA) 
+
 **Student:** Heng Sengthay
 
 ## Project Overview
