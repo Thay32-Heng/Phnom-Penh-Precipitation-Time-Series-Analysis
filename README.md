@@ -21,6 +21,7 @@ The project files are organized as follows:
 │   └── 03_seasonal_subseries_plot.png                       # Monthly variation and averages
 └── notebooks/
     └── TSA_Week2_Phnom_Penh_Rainfall_Lab.ipynb              # Main Jupyter/Colab notebook
+```
 
 ## **Figures##
 
