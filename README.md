@@ -61,7 +61,7 @@ The dataset is derived from NASA POWER gridded estimates (presumed parameter: **
 - Matplotlib (Data visualization)
 - Jupyter / Google Colab
 
-## ** How to Run**
+## **How to Run**
 1. Clone the repository to your local machine.
 
 2. Ensure you have Python and the necessary libraries (**pandas**, **matplotlib**, **numpy**) installed.
