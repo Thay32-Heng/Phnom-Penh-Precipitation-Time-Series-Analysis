@@ -29,9 +29,15 @@ The project files are organized as follows:
 
 ## **Figures**
 
+### 1. Chronological precipitation timeline
+
 ![Chronological precipitation timeline](figures/01_time_plot.png)
 
+### 2.Year-over-year monthly comparisons
+
 ![Year-over-year monthly comparisons](figures/02_seasonal_plot.png)  
+
+### 3.Monthly variation and averages
 
 ![Monthly variation and averages](figures/03_seasonal_subseries_plot.png)
 
