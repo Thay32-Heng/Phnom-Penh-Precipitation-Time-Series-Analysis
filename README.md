@@ -23,7 +23,7 @@ The project files are organized as follows:
     └── TSA_Week2_Phnom_Penh_Rainfall_Lab.ipynb              # Main Jupyter/Colab notebook
 ```
 
-## **Figures##
+## **Figures**
 
 ![Chronological precipitation timeline](figures/01_time_plot.png)
 
