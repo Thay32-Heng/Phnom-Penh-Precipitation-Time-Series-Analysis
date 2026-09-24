@@ -12,15 +12,23 @@ This repository contains an exploratory time-series analysis of monthly precipit
 ## Repository Structure
 The project files are organized as follows:
 
-
+```text
 ├── data/
 │   └── phnom_penh_monthly_precipitation_2015_2025_long.csv  # Reshaped long-format dataset
 ├── figures/
-│   ├── ![Chronological precipitation timeline](figures/01_time_plot.png)                                     
-│   ├── ![Year-over-year monthly comparisons](figures/02_seasonal_plot.png)                                
-│   └── ![Monthly variation and averages](figures/03_seasonal_subseries_plot.png)
+│   ├── 01_time_plot.png                                     # Chronological precipitation timeline
+│   ├── 02_seasonal_plot.png                                 # Year-over-year monthly comparisons
+│   └── 03_seasonal_subseries_plot.png                       # Monthly variation and averages
 └── notebooks/
     └── TSA_Week2_Phnom_Penh_Rainfall_Lab.ipynb              # Main Jupyter/Colab notebook
+
+## **Figures##
+
+![Chronological precipitation timeline](figures/01_time_plot.png)
+
+![Year-over-year monthly comparisons](figures/02_seasonal_plot.png)  
+
+![Monthly variation and averages](figures/03_seasonal_subseries_plot.png)
 
 ## **Key Findings**
 Based on the visual and statistical exploration of the data:
